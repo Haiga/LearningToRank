@@ -1,0 +1,1 @@
+MAP, MRR, NDCG são medidas que avaliam o quão um documento é relevante para uma consulta.
